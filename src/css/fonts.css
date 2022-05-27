@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'superMario';
+    src: url(../fonts/SuperMario256.ttf);
+}
+
+@font-face {
+    font-family: 'chlorinp';
+    src: url(../fonts/CHLORINP.TTF);
+}
+
+@font-face {
+    font-family: 'command';
+    src: url(../fonts/PILOT_COMMAND.otf);
+}
